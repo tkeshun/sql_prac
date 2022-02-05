@@ -1,0 +1,2 @@
+# data以下を無視
+mysql/db/data/*
